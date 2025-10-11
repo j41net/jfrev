@@ -1,16 +1,7 @@
-# netlify.toml — Hugo + theme submodules
 [build]
-  # Pull theme submodules first, then build
-  command = "git submodule update --init --recursive && hugo --minify"
+  command = "git submodule update --init --recursive && hugo"
   publish = "public"
-  # If your Hugo site lives in a subfolder, set it:
-  # base = "site"
 
 [build.environment]
-  HUGO_VERSION = "0.151.0"   # match your local Hugo (extended)
-  HUGO_ENV = "production"
-  GO_VERSION = "1.21"        # helpful if using Hugo Modules or SCSS
-
-# Per-context overrides if you ever need them:
-[context.production.environment]
+  HUGO_VERSION = "0.151.0"
   HUGO_ENV = "production"
