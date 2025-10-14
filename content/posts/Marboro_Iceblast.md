@@ -1,7 +1,7 @@
 ---
-date: '2025-10-10T14:10:50+11:00'
+date: '2025-08-17T14:10:50+11:00'
 draft: false
-title: 'Marlboro IceBlast'
+title: 'Marlboro Iceblast'
 ---
 
 A pack I grabbed for a wedding as I did not want to bring a pre-opened pack and risk not having enough for the night and to go around.
