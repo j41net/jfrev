@@ -4,5 +4,24 @@ title: JFREV
 theme: PaperMod
 
 params:
-   ShowBreadCrumbs: true
-   ShowPostNavLinks: true
+  homeInfoParams:
+    Title: Welcome Stranger
+    Content: Reviews and rantings of the unamused
+   
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+
+menu:
+    main:
+    - identifer: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifer: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifer: archives
+      name: Archives
+      url: /archives/
+      weight: 30

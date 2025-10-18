@@ -2,6 +2,8 @@
 date: '2025-08-17T14:10:50+11:00'
 draft: false
 title: 'Marlboro Iceblast'
+tags: ["darts","marlboro"]
+categories: ["reviews"]
 ---
 
 A pack I grabbed for a wedding as I did not want to bring a pre-opened pack and risk not having enough for the night and to go around.
@@ -10,3 +12,5 @@ However part of me thinks it might actually take some time before I can go throu
  
 Would Smoke Again Rating (WSAR): Potentially
 Pop Capsule: Y
+
+Update: 2025-10-16 These might legit be fake/knock offs. If I can somehow manage to get my hands on a legit box (without actively having to search for them) I will come back and do a re-review.

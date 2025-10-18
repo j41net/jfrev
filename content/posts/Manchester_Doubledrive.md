@@ -2,6 +2,8 @@
 date: '2025-06-29T14:10:48+11:00'
 draft: false
 title: 'Manchester Double Drive'
+tags: ["darts"]
+categories: ["reviews"]
 ---
 
 These were the only other pack of darts I was able to procure along with the Esses prior to the bucks.

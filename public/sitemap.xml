@@ -2,26 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2025-10-10T14:10:50+11:00</lastmod>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2025-10-16T14:09:05+11:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/marboro_iceblast/</loc>
-    <lastmod>2025-10-10T14:10:50+11:00</lastmod>
+    <loc>//localhost:1313/tags/darts/</loc>
+    <lastmod>2025-10-16T14:09:05+11:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-10-16T14:09:05+11:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/marlboro/</loc>
+    <lastmod>2025-10-16T14:09:05+11:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/marlboro_mega_iceblast_8/</loc>
+    <lastmod>2025-10-16T14:09:05+11:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-10-10T14:10:50+11:00</lastmod>
+    <lastmod>2025-10-16T14:09:05+11:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/manchester_doubledrive/</loc>
-    <lastmod>2025-10-10T14:10:48+11:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/african_mola/</loc>
-    <lastmod>2025-10-10T14:10:44+11:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/esse_change/</loc>
-    <lastmod>2025-10-10T14:10:40+11:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>//localhost:1313/categories/reviews/</loc>
+    <lastmod>2025-10-16T14:09:05+11:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-10-16T14:09:05+11:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/marlboro_watermelon/</loc>
+    <lastmod>2025-10-10T14:09:58+11:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/mevius_blueberry/</loc>
+    <lastmod>2025-10-10T14:09:58+11:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/marlboro_iceblast/</loc>
+    <lastmod>2025-08-17T14:10:50+11:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/african_mola/</loc>
+    <lastmod>2025-08-17T14:10:44+11:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/manchester_doubledrive/</loc>
+    <lastmod>2025-06-29T14:10:48+11:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/esse_change/</loc>
+    <lastmod>2025-06-29T14:10:40+11:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/archives/</loc>
   </url>
 </urlset>
