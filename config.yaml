@@ -2,3 +2,7 @@ baseURL: ""
 languageCode: en-us
 title: JFREV
 theme: PaperMod
+
+params:
+   ShowBreadCrumbs: true
+   ShowPostNavLinks: true
