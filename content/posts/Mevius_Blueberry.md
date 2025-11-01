@@ -2,7 +2,7 @@
 date: '2025-10-10T14:09:58+11:00'
 draft: false
 title: 'Mevius Blueberry'
-tags: ["darts"]
+tags: ["darts","mevius"]
 categories: ["reviews"]
 ---
 

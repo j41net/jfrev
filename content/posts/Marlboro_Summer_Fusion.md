@@ -1,7 +1,7 @@
 ---
 date: '2025-10-10T14:09:58+11:00'
 draft: false
-title: 'Marlboro Watermelon'
+title: 'Marlboro Summer Fusion'
 tags: ["darts","marlboro"]
 categories: ["reviews"]
 ---
