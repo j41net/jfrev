@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: Welcome Stranger
-    Content: Reviews and rantings of the unamused
+    Content: i am not on any lists, i do not have any trophies. I am just grateful for my opportunities
    
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
