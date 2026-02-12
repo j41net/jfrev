@@ -1,5 +1,5 @@
 ---
-date: '2025-12-18T14:10:44+11:00'
+date: '2026-02-11T14:10:44+11:00'
 draft: false
 title: 'Salam Mandi Arabian and East African cuisines'
 tags: ["outside"]
