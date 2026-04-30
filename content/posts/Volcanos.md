@@ -2,7 +2,7 @@
 date: '2026-02-18T14:10:44+11:00'
 draft: false
 title: 'Volcanos - Parramatta'
-tags: ["outside"]
+tags: ["food"]
 categories: ["reviews"]
 
 ---

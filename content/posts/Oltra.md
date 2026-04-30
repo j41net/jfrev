@@ -2,7 +2,7 @@
 date: '2026-03-11T14:10:44+11:00'
 draft: false
 title: 'Pizza Oltra'
-tags: ["outside"]
+tags: ["food"]
 categories: ["reviews"]
 
 ---

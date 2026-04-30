@@ -2,7 +2,7 @@
 date: '2026-04-09T14:10:44+11:00'
 draft: false
 title: 'Noodle and Dumpling - Blacktown (Westpoint)'
-tags: ["outside"]
+tags: ["food"]
 categories: ["reviews"]
 
 ---

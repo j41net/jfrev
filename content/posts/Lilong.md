@@ -2,7 +2,7 @@
 date: '2025-12-05T14:10:44+11:00'
 draft: false
 title: 'Lilong by Taste of Shanghai'
-tags: ["outside"]
+tags: ["food"]
 categories: ["reviews"]
 
 ---

@@ -2,7 +2,7 @@
 date: '2026-02-25T14:10:44+11:00'
 draft: false
 title: 'Wingboy - Darling Square'
-tags: ["outside"]
+tags: ["food"]
 categories: ["reviews"]
 
 ---

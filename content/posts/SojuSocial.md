@@ -2,7 +2,7 @@
 date: '2026-04-04T14:10:44+11:00'
 draft: false
 title: 'Soju Social - Bankstown'
-tags: ["outside"]
+tags: ["food"]
 categories: ["reviews"]
 
 ---

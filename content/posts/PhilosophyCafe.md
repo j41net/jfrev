@@ -2,7 +2,7 @@
 date: '2026-04-05T14:10:44+11:00'
 draft: false
 title: 'Philosophy Cafe - Darlo'
-tags: ["outside"]
+tags: ["food"]
 categories: ["reviews"]
 
 ---

@@ -2,7 +2,7 @@
 date: '2026-01-26T14:10:44+11:00'
 draft: false
 title: 'Parkbongsook - Lidcombe'
-tags: ["outside"]
+tags: ["food"]
 categories: ["reviews"]
 
 ---

@@ -2,7 +2,7 @@
 date: '2026-03-27T14:10:44+11:00'
 draft: false
 title: 'Little Bangkok - Mount Druitt'
-tags: ["outside"]
+tags: ["food"]
 categories: ["reviews"]
 
 ---

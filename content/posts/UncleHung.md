@@ -2,7 +2,7 @@
 date: '2026-02-04T14:10:44+11:00'
 draft: false
 title: 'Uncle Hungs - Padstow'
-tags: ["outside"]
+tags: ["food"]
 categories: ["reviews"]
 
 ---

@@ -2,7 +2,7 @@
 date: '2026-01-02T14:10:44+11:00'
 draft: false
 title: 'Papis Birria Tacos - Darlinghurst'
-tags: ["outside"]
+tags: ["food"]
 categories: ["reviews"]
 
 ---
