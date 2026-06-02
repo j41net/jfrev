@@ -2,7 +2,7 @@
 date: '2026-05-16T14:10:44+11:00'
 draft: false
 title: 'Lunas - Petersham'
-tags: ["Food"]
+tags: ["food"]
 categories: ["reviews"]
 
 ---
