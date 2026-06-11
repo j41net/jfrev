@@ -3,7 +3,7 @@ date: '2026-04-20T14:10:44+11:00'
 draft: false
 title: 'AS Wedding'
 tags: ["outside"]
-categories: ["reviews"]
+categories: ["events"]
 
 ---
 
